@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/musicapp/static/css/main.7e46688b.css",
+    "main.js": "/musicapp/static/js/main.9bcb79f1.js",
+    "static/js/787.01890fb4.chunk.js": "/musicapp/static/js/787.01890fb4.chunk.js",
+    "static/media/img5.png": "/musicapp/static/media/img5.e2d1f81fb38e54ad201d.png",
+    "static/media/img1.png": "/musicapp/static/media/img1.81eb9c2ff77cfe135c80.png",
+    "static/media/img7.png": "/musicapp/static/media/img7.689cacfd46586408bb8b.png",
+    "static/media/img6.png": "/musicapp/static/media/img6.de8b91027c84b8494f78.png",
+    "static/media/img8.png": "/musicapp/static/media/img8.44f5884453e786ce1559.png",
+    "static/media/wave.png": "/musicapp/static/media/wave.4aac755212a1cc64f93f.png",
+    "static/media/logo.png": "/musicapp/static/media/logo.a91a5ae33ca505b4a00a.png",
+    "static/media/img2.png": "/musicapp/static/media/img2.a3ef04835c64eabead5c.png",
+    "static/media/logomus.png": "/musicapp/static/media/logomus.f66074a1141e6b3f9f60.png",
+    "static/media/google.png": "/musicapp/static/media/google.dabff7f2ed3407cbdeab.png",
+    "static/media/apple.png": "/musicapp/static/media/apple.2e919fbabac7c0ecb0e0.png",
+    "static/media/waves.png": "/musicapp/static/media/waves.5bccd081c7491a34b65c.png",
+    "static/media/img3.png": "/musicapp/static/media/img3.0acd803d6a9d85973098.png",
+    "static/media/img4.png": "/musicapp/static/media/img4.fcc6fc8fbc64a172a475.png",
+    "index.html": "/musicapp/index.html",
+    "main.7e46688b.css.map": "/musicapp/static/css/main.7e46688b.css.map",
+    "main.9bcb79f1.js.map": "/musicapp/static/js/main.9bcb79f1.js.map",
+    "787.01890fb4.chunk.js.map": "/musicapp/static/js/787.01890fb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e46688b.css",
+    "static/js/main.9bcb79f1.js"
+  ]
+}
